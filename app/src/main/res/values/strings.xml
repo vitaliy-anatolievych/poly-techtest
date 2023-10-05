@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Poly-techTest</string>
+    <string name="load_error">Click to try load again</string>
+    <string name="ure_not_online">Ure not online and caches is empty</string>
+    <string name="empty_caches_and_network_error">Empty caches and network error</string>
+    <string name="click_to_retry">Click to retry</string>
+</resources>
